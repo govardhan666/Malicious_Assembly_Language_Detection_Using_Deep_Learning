@@ -1,0 +1,2 @@
+## Malicious_Assembly_Language_Detection_Using_Deep_Learning
+ Developed a deep learning-based system using Computer Nueral Networks to detect malicious assembly code by transforming it into grayscale images. Achieved high classification accuracy for distinguishing between benign and malicious code, enhancing cybersecurity defenses. Designed for real-time inference and scalable integration with security platforms to detect evolving malware threats.
